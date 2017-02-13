@@ -3,28 +3,28 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Ledningskapacitet och specialistkompetens</title>
 
-<link rel="stylesheet" type="text/css" href="/2020/styles/styles.css" />
+<link rel="stylesheet" type="text/css" href="/strategi2020/Styles/styles.css" />
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-<script src="/2020/styles/js/burger.js"></script>
-<link runat="server" rel="icon" href="/2020/styles/img/favicon.ico" type="image/ico"/>
+<script src="/strategi2020/Styles/js/burger.js"></script>
+<link runat="server" rel="icon" href="/strategi2020/Styles/img/favicon.ico" type="image/ico"/>
 
 
     <div class="nav-top">
         <div class="nav-top-box1">
             <a href="/">
-            <img name="onetidHeadbnnr0" class="ms-siteicon-img" alt="Tellus" src="/SiteAssets/AF-logo.png">
+            <img name="onetidHeadbnnr0" class="ms-siteicon-img" alt="Tellus" src="/strategi2020/Styles/img/AF-logo.png">
             </a>
         </div>
         <div class="nav-top-box2">
             <nav class="menu">
                 <ul class="active">
-                    <li><a href="/2020/se/konsernstrategi.aspx">Koncernstrategi 2020</a></li>  
-                    <li><a href="/2020/se/ledelseskapasitet.aspx">Ledningskapacitet och specialistkompetens</a></li>
-                    <li><a href="/2020/se/innovasjon.aspx">Innovation och nyskapande</a></li>   
-                    <li><a href="/2020/se/kunder.aspx">Kunder och leverantörer</a></li> 
-                    <li><a href="/2020/se/storby.aspx">Tillväxt storstad</a></li> 
-                    <li><a href="/2020/se/landsdekkende.aspx">Landstäckande verksamhet</a></li>
-                    <li><a href="/2020/se/offshore.aspx">Tillväxt Offshore</a></li>
+                    <li><a href="/2020/se/konsernstrategi.html">Koncernstrategi 2020</a></li>  
+                    <li><a href="/2020/se/ledelseskapasitet.html">Ledningskapacitet och specialistkompetens</a></li>
+                    <li><a href="/2020/se/innovasjon.html">Innovation och nyskapande</a></li>   
+                    <li><a href="/2020/se/kunder.html">Kunder och leverantörer</a></li> 
+                    <li><a href="/2020/se/storby.html">Tillväxt storstad</a></li> 
+                    <li><a href="/2020/se/landsdekkende.html">Landstäckande verksamhet</a></li>
+                    <li><a href="/2020/se/offshore.html">Tillväxt Offshore</a></li>
                     <li><a href="/"> </a></li>                   
                 </ul>
 
@@ -32,8 +32,8 @@
             </nav>    
         </div>
         <div class="nav-top-box3">
-            <a href="/2020/se/forside.aspx">
-            <img name="2020 home" alt="2020" src="/2020/styles/img/2020_solid.png">
+            <a href="/2020/se/forside.html">
+            <img name="2020 home" alt="2020" src="/strategi2020/Styles/img/2020_solid.png">
             </a>
         </div>
     </div>
@@ -46,21 +46,21 @@
             <iframe src="https://player.vimeo.com/video/188810475/" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
         <div class="content-page-footer">
-        	<img src="/2020/styles/img/Gul-pil.png">
+        	<img src="/strategi2020/Styles/img/Gul-pil.png">
         </div>
 
         </div> 
         <div class="content-page-block-1">
             <div class="content-page-block-wrap-row">
                 <div class="content-page-block-1-1">
-                    <img src="/2020/styles/img/Ledelseskapasitet.png">
+                    <img src="/strategi2020/Styles/img/Ledelseskapasitet.png">
                 </div>
                 <div class="content-page-block-1-2">
                     <span>2020 ska AF vara den arbetsgivare som föredras framför andra i branschen</span>
                 </div>
             </div>
         <div class="content-page-footer">
-            <img src="/2020/styles/img/Grå-pil.png">
+            <img src="/strategi2020/Styles/img/Grå-pil.png">
         </div>                  
         </div>
         <div class="content-page-block-2">
@@ -68,15 +68,15 @@
                 <div class="content-page-block-title"><span>Ledningskapacitet</span></div>
                 <div class="content-page-block-grid">
                     <div class="gridbox">
-                        <img src="/2020/styles/img/Rekruttering_Kvinneandel.png">
+                        <img src="/strategi2020/Styles/img/Rekruttering_Kvinneandel.png">
                         <span>Vi ska bygga branschens bästa ledning genom ledarutvecklingsprogram, internrekrytering och ökad kvinnoandel.</span>
                     </div>
                     <div class="gridbox">
-                        <img src="/2020/styles/img/FE-mobilitet.png">
+                        <img src="/strategi2020/Styles/img/FE-mobilitet.png">
                         <span>Underlätta för mobilitet av resurser över affärsenhetsgränserna.</span>
                     </div>
                     <div class="gridbox">
-                        <img src="/2020/styles/img/Ledergruppe.png">
+                        <img src="/strategi2020/Styles/img/Ledergruppe.png">
                         <span>Löpande utvärdera våra ledare och ledningsgrupp och proaktivt göra ändringar om det behövs.</span>
                     </div>
                 </div>
@@ -84,15 +84,15 @@
                 <div class="content-page-block-title"><span>Specialistkompetens</span></div>
                 <div class="content-page-block-grid">
                     <div class="gridbox">
-                        <img src="/2020/styles/img/Tannhjul.png">
+                        <img src="/strategi2020/Styles/img/Tannhjul.png">
                         <span>Säkra tillgången till och utveckla den specialistkompetens som vi behöver.</span>
                     </div>
                     <div class="gridbox">
-                        <img src="/2020/styles/img/Konkurransekraft.png">
+                        <img src="/strategi2020/Styles/img/Konkurransekraft.png">
                         <span>Säkerställa att specialistkompetensen utnyttjas koncernövergripande och bidrar till ökad konkurrenskraft.</span>
                     </div>
                     <div class="gridbox">
-                        <img src="/2020/styles/img/Beholde_Ansatte_hjelm.png">
+                        <img src="/strategi2020/Styles/img/Beholde_Ansatte_hjelm.png">
                         <span>Säkra att duktiga medarbetare stannar kvar i företaget.</span>
                     </div>
                 </div>

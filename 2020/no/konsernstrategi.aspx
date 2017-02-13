@@ -3,28 +3,28 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Konsernstrategi 2020</title>
 
-<link rel="stylesheet" type="text/css" href="/2020/styles/styles.css" />
+<link rel="stylesheet" type="text/css" href="/strategi2020/Styles/styles.css" />
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-<script src="/2020/styles/js/burger.js"></script>
-<link runat="server" rel="icon" href="/2020/styles/img/favicon.ico" type="image/ico"/>
+<script src="/strategi2020/Styles/js/burger.js"></script>
+<link runat="server" rel="icon" href="/strategi2020/Styles/img/favicon.ico" type="image/ico"/>
 
 
     <div class="nav-top">
         <div class="nav-top-box1">
             <a href="/">
-            <img name="onetidHeadbnnr0" class="ms-siteicon-img" alt="Tellus" src="/SiteAssets/AF-logo.png">
+            <img name="onetidHeadbnnr0" class="ms-siteicon-img" alt="Tellus" src="/strategi2020/Styles/img/AF-logo.png">
             </a>
         </div>
         <div class="nav-top-box2">
             <nav class="menu">
                 <ul class="active">
-                    <li><a href="/2020/no/konsernstrategi.aspx">Konsernstrategi 2020</a></li>  
-                    <li><a href="/2020/no/ledelseskapasitet.aspx">Ledelseskapasitet og fagkompetanse</a></li>
-                    <li><a href="/2020/no/innovasjon.aspx">Innovasjon og nyskaping</a></li>   
-                    <li><a href="/2020/no/kunder.aspx">Kunder og leverandører</a></li> 
-                    <li><a href="/2020/no/storby.aspx">Vekst Storby</a></li> 
-                    <li><a href="/2020/no/landsdekkende.aspx">Vekst Landsdekkende</a></li>
-                    <li><a href="/2020/no/offshore.aspx">Vekst Offshore</a></li>
+                    <li><a href="konsernstrategi.html">Konsernstrategi 2020</a></li>  
+                    <li><a href="ledelseskapasitet.html">Ledelseskapasitet og fagkompetanse</a></li>
+                    <li><a href="innovasjon.html">Innovasjon og nyskaping</a></li>   
+                    <li><a href="kunder.html">Kunder og leverandører</a></li> 
+                    <li><a href="storby.html">Vekst Storby</a></li> 
+                    <li><a href="landsdekkende.html">Vekst Landsdekkende</a></li>
+                    <li><a href="offshore.html">Vekst Offshore</a></li>
                     <li><a href="/">Tilbake til Tellus</a></li>                   
                 </ul>
 
@@ -32,8 +32,8 @@
             </nav>    
         </div>
         <div class="nav-top-box3">
-            <a href="/2020/no/forside.aspx">
-            <img name="2020 home" alt="2020" src="/2020/styles/img/2020_solid.png">
+            <a href="forside.html">
+            <img name="2020 home" alt="2020" src="/strategi2020/Styles/img/2020_solid.png">
             </a>
         </div>
     </div>
@@ -46,7 +46,7 @@
             <iframe src="https://player.vimeo.com/video/190875689" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
         <div class="content-page-footer">
-        	<img src="/2020/styles/img/Gul-pil.png">
+        	<img src="/strategi2020/Styles/img/Gul-pil.png">
         </div>    
     </div> 
     
@@ -55,7 +55,7 @@
             <div class="content-page-horisontal-grid">
                 <div class="gridbox-horizontal">
                     <div class="gridbox-horizontal-img">
-                        <img src="/2020/styles/img/Vekst_invertert.png">
+                        <img src="/strategi2020/Styles/img/Vekst_invertert.png">
                     </div>
                     <div class="gridbox-horizontal-textbox">
                         <span class="textbox-title">Organisk og strukturell vekst</span>
@@ -67,7 +67,7 @@
 
                 <div class="gridbox-horizontal">
                     <div class="gridbox-horizontal-img">                    
-                        <img src="/2020/styles/img/Kunder-leverandører_invertert.png">
+                        <img src="/strategi2020/Styles/img/Kunder-leverandører_invertert.png">
                     </div>
                     <div class="gridbox-horizontal-textbox">
                         <span class="textbox-title">Kunder og leverandører</span>
@@ -77,7 +77,7 @@
 
                 <div class="gridbox-horizontal">
                     <div class="gridbox-horizontal-img">                    
-                        <img src="/2020/styles/img/Innovasjon_Invertert.png">
+                        <img src="/strategi2020/Styles/img/Innovasjon_Invertert.png">
                     </div>
                     <div class="gridbox-horizontal-textbox">
                         <span class="textbox-title">Innovasjon og nyskaping</span>
@@ -87,7 +87,7 @@
 
                 <div class="gridbox-horizontal">
                     <div class="gridbox-horizontal-img">                    
-                        <img src="/2020/styles/img/Ledelseskapasitet_invertert.png">
+                        <img src="/strategi2020/Styles/img/Ledelseskapasitet_invertert.png">
                     </div>
                     <div class="gridbox-horizontal-textbox">
                         <span class="textbox-title">Ledelseskapasitet og fagkompetanse</span>
